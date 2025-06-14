@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/placeholder/your-gif.gif](https://preview.redd.it/5uvg9msd0hi21.jpg?width=1080&crop=smart&auto=webp&s=9b79954b2abd3bb827b3d5b130341b453b95fd59)" alt="Game Demo" width="600"/>
+  <img src="https://preview.redd.it/5uvg9msd0hi21.jpg?width=1080&crop=smart&auto=webp&s=9b79954b2abd3bb827b3d5b130341b453b95fd59" alt="Game Demo" width="600"/>
 </p>
 
 ---
