@@ -26,7 +26,6 @@ A fun tribute to the arcade era — recreated from scratch using the fundamental
 - 💥 Bullet firing with cooldown  
 - 🔁 Screen edge wrapping  
 - 🕹️ Responsive controls and frame rate cap  
-- 🔊 Sound effects and pixel-style visuals (optional)
 
 ---
 
