@@ -57,19 +57,17 @@ python main.py
 
 ---
 
-### 📂 Folder Structure
-
 asteroids-game/  
 │  
-├── README.md
-├── asteroid.py
-├── asteroidfield.py
-├── circleshape.py
-├── constants.py
-├── main.py
-├── player.py
-└── shot.py
----
+├── README.md           # Project documentation  
+├── asteroid.py         # Asteroid class logic  
+├── asteroidfield.py    # Handles multiple asteroids in the field  
+├── circleshape.py      # Shared circle-based shape class (for collisions/drawing)  
+├── constants.py        # Game constants like FPS, screen size, colors  
+├── main.py             # Game loop, event handling, and initialization  
+├── player.py           # Player ship logic and input handling  
+└── shot.py             # Bullet firing and projectile behavior  
+
 
 ### 👨‍💻 Author
 
