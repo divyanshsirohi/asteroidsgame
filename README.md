@@ -80,5 +80,5 @@ asteroids-game/
 ### 🌟 Star this repo if you liked the game!
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/divyanshsirohi/asteroids-game?style=social" />
+  <img src="https://img.shields.io/github/stars/divyanshsirohi/asteroidsgame?style=social" />
 </p>
